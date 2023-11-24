@@ -40,6 +40,7 @@ const Footer = () => (
 
     <div className="gpt3__footer-copyright">
       <p>@2021 GPT-3. All rights reserved.</p>
+      <p className='tarek'>	&#9829; Made By <span className='tarek-name'>Tarek</span>	&#9829;</p>
     </div>
   </div>
 );

@@ -114,6 +114,9 @@
     line-height: 15px;
     color: #fff;
 }
+.tarek {
+    margin-top: 2rem;
+}
 
 @media screen and (max-width: 850px) {
     .gpt3__footer-heading h1 {
