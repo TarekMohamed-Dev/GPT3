@@ -2,7 +2,7 @@
   "name": "gpt-3",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://TarekMohamed-Dev.github.io/GPT3",
+  "homepage": "https://TarekMohamed-Dev.github.io/GPT-3",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

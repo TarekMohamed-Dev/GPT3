@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "wgpt"
-    ]
+    ],
+    "editor.inlineSuggest.showToolbar": "onHover"
 }
