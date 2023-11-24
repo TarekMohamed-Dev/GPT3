@@ -1,6 +1,6 @@
 # Modern UI/UX GPT-3
 
-### [Live Site](https://TarekMohamed-Dev.github.io/GPT3)
+### [Live Site](https://TarekMohamed-Dev.github.io/GPT-3)
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
